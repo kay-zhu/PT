@@ -4,14 +4,20 @@
     {
       "domain": [
         "tracker.m-team.io",
-        "tracker.m-team.cc"
+        "tracker.m-team.cc",
+        "tracker.52dic.vip"
       ],
       "domain_suffix": [
         "gazellegames.net",
         "canal-street.org",
         "open.cd",
         "ourbits.club",
-        "gamegamept.com"
+        "gamegamept.com",
+        "redacted.sh",
+        "flacsfor.me",
+        "orpheus.network",
+        "opsfet.ch",
+        "dicmusic.com"
       ]
     }
   ]
